@@ -1,0 +1,3 @@
+from selecionaComida import *
+
+selectFood()
